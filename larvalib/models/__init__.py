@@ -1,0 +1,1 @@
+from larvalib.models.report import Report

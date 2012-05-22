@@ -1,0 +1,1 @@
+from larvalib import app
